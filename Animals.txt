@@ -1,7 +1,5 @@
 Cat
 
-Polar Bear
-
 Panda
 
 Ostrich
